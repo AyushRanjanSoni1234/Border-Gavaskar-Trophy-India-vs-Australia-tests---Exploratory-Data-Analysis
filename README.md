@@ -1,0 +1,2 @@
+# Border-Gavaskar-Trophy-India-vs-Australia-tests---Exploratory-Data-Analysis
+Border Gavaskar Trophy is a cricket tournament consisting of test matches played between India and Australia. I performed descriptive analysis and Comparative analysis on the basis of gaining the insight from given dataset. This may involve tasks such as calculating summary statistics and visualizing the data using plots and charts in the data.
